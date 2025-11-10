@@ -1,0 +1,6 @@
+Django>=5.2
+python-decouple
+dj-database-url
+pillow
+whitenoise
+psycopg2-binary  # For PostgreSQL support (optional)
